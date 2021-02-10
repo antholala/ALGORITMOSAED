@@ -1,0 +1,7 @@
+
+Valores introducidos
+[12][45][78][45][45][78]
+
+Orden Inverso:
+[78][45][45][78][45][12]
+

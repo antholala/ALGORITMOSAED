@@ -1,0 +1,17 @@
+Cuenta Alberto Pérez
+Deposito del mes 1 : 12
+Deposito del mes 2 : 45
+Deposito del mes 3 : 78
+Deposito del mes 4 : 95
+Deposito del mes 5 : 62
+Deposito del mes 6 : 51
+Deposito del mes 7 : 26
+Deposito del mes 8 : 45
+Deposito del mes 9 : 65
+Deposito del mes 10 : 78
+Deposito del mes 11 : 95
+Deposito del mes 12 : 12
+
+El monto a buscar: 6
+El monto no fue enconrado
+
