@@ -1,0 +1,6 @@
+
+				Algoritmo de ordenamiento Mergesort
+Arreglo original: 
+|44||38||14||24||7||13||12|
+Arreglo ordenado: 
+|7||12||13||14||24||38||44|
