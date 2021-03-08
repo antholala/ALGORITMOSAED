@@ -1,0 +1,6 @@
+ALGORITMOS DE ORDENAMIENTO QUICKSORT
+
+Arreglo original
+|88||-6||69||-33||98||7||23||-5||0||100|
+Arreglo Ordenado
+|-33||-6||-5||0||7||23||69||88||98||100|
