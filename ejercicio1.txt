@@ -1,0 +1,7 @@
+
+Tamaño del arreglo: 5
+Arreglo: 
+|89||77||15||85||20|
+El numero menor es: 15 No. Repeticiones:1
+El numero mayor es: 89 No. Repeticiones:1
+

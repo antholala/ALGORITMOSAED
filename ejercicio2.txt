@@ -1,0 +1,7 @@
+
+Tamaño del arreglo: 3
+Arreglo: 
+Matriz principal: │12││5││28│
+Matriz ordenada: │5││12││28│
+Elemento a buscar: 5
+Su valor se encuentra en la posicion 0

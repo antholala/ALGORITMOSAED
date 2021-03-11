@@ -1,0 +1,7 @@
+*DATOS DEL PROVEEDOR**
+codigo		nombre		cuidad		telefono
+12				Kevin Guayaquil		1234		
+
+
+*DATOS DEL PRODUCTO**
+nombre		precio		cantidad		estado
